@@ -1,7 +1,7 @@
 # StickFigure
 Eighth programming exercise for C# class
 
-Just a minimal stick figure.
+Just a minimal stick figure in a triumphant pose.
 
 ## Example output
 ```
