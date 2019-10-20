@@ -1,6 +1,8 @@
 # StickFigure
 Eighth programming exercise for C# class
 
+Not actually assigned by professor, just based on exercise in textbook.
+
 Just a minimal stick figure in a triumphant pose.
 
 ## Example output
